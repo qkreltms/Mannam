@@ -15,4 +15,4 @@ Firsebase.
 
 Javascript, CSS, HTML, Jquery, Bootstrap.
 
-was used to make this project.
+have used to make this project.
