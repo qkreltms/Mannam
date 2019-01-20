@@ -1,6 +1,6 @@
 
-# mannam
-This is project for setting up a date for someone who wish to make a girlfriend or boyfriend. 
+# Mannam
+This is a team project in order to set up a date for someone who wish to make a girlfriend or boyfriend. 
 
 https://myfirstproject-1639b.firebaseapp.com/
 
